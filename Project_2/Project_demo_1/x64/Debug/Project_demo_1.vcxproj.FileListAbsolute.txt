@@ -1,0 +1,2 @@
+F:\Code_Project\VS 2019\C\C_Primer_Plus\Project_2\Project_demo_1\x64\Debug\Project_demo_1.exe
+F:\Code_Project\VS 2019\C\C_Primer_Plus\Project_2\Project_demo_1\x64\Debug\Project_demo_1.pdb
